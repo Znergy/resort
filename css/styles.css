@@ -1,46 +1,57 @@
 /* About Styling */
 .about {
-
-  background-color: #897BAF;
+  background-color: #E2E8D4;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+  margin-top: 30px;
 }
 
 .about h2 {
-  color: #14063A;
+  color: #395500;
   border-bottom: 1px solid black;
-  display: inline;
+  display: inline-block;
 }
 
 .footer {
-  background-color: #14063A;
+  background-color: #395500;
 }
 
 .footer li {
   padding: 50px;
+  color: #E2E8D4;
+}
+
+.footer li a {
+  color: #E2E8D4;
+}
+
+.footer li a:hover {
+  color: white;
 }
 
 /* accommodations Styling */
 .accommodations {
-  background-color: #897BAF;
+  background-color: #E2E8D4;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+  margin-top: 30px;
 }
 
 .accommodations h2 {
-  color: #14063A;
+  color: #395500;
   border-bottom: 1px solid black;
-  display: inline;
+  display: inline-block;
 }
 
 /* Activities Styling */
 .activities {
-  background-color: #897BAF;
+  background-color: #E2E8D4;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+  margin-top: 30px;
 }
 
 .activities p {
@@ -49,51 +60,65 @@
 
 .activities h3 {
   font-style: normal;
-  color: #14063A;
+  color: #395500;
   text-align: left;
   font-size: 22px;
   font-weight: normal;
 }
 
 .activities h2 {
-
-  color: #14063A;
+  color: #395500;
   border-bottom: 1px solid black;
-  display: inline;
+  display: inline-block;
 }
 
 /* Contact Styling */
 .contact-info {
-  background-color: #897BAF;
+  background-color: #E2E8D4;
   padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
+  margin-top: 30px;
 }
 
 .contact-info h2 {
-  color: #14063A;
+  color: #395500;
   border-bottom: 1px solid black;
-  display: inline;
+  display: inline-block;
 }
 
 /* Photo Gallery Styling */
 .photo-gallery {
-  background-color: #897BAF;
-  padding-left: 10px;
-  padding-right: 10px;
+  background-color: #E2E8D4;
   padding-bottom: 10px;
+  margin-top: 30px;
 }
 
 .photo-gallery h2 {
-  color: #14063A;
+  color: #395500;
   border-bottom: 1px solid black;
-  display: inline;
+  display: inline-block;
+}
+
+.photo-gallery li {
+  padding: 0px;
+}
+
+.photo-gallery ul {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 body {
-  background-color: #423075;
-  color: white;
+  background-color: #789F35;
+  color: #395500;
   text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 60px;
 }
 
 h3 {
@@ -106,7 +131,7 @@ a {
 }
 
 a:hover {
-  color: #897BAF;
+  color: #395500;
 }
 
 li {
