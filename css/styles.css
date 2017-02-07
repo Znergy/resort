@@ -1,0 +1,116 @@
+/* About Styling */
+.about {
+
+  background-color: #897BAF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.about h2 {
+  color: #14063A;
+  border-bottom: 1px solid black;
+  display: inline;
+}
+
+.footer {
+  background-color: #14063A;
+}
+
+.footer li {
+  padding: 50px;
+}
+
+/* accommodations Styling */
+.accommodations {
+  background-color: #897BAF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.accommodations h2 {
+  color: #14063A;
+  border-bottom: 1px solid black;
+  display: inline;
+}
+
+/* Activities Styling */
+.activities {
+  background-color: #897BAF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.activities p {
+  text-align: left;
+}
+
+.activities h3 {
+  font-style: normal;
+  color: #14063A;
+  text-align: left;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.activities h2 {
+
+  color: #14063A;
+  border-bottom: 1px solid black;
+  display: inline;
+}
+
+/* Contact Styling */
+.contact-info {
+  background-color: #897BAF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.contact-info h2 {
+  color: #14063A;
+  border-bottom: 1px solid black;
+  display: inline;
+}
+
+/* Photo Gallery Styling */
+.photo-gallery {
+  background-color: #897BAF;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.photo-gallery h2 {
+  color: #14063A;
+  border-bottom: 1px solid black;
+  display: inline;
+}
+
+body {
+  background-color: #423075;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  font-style: italic;
+}
+
+a {
+  color: #eee;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #897BAF;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
